@@ -10,4 +10,16 @@ coverImage: https://habrastorage.org/r/w1560/getpro/habr/upload_files/b1b/1ac/55
 ---
 
 
+# Хола амиго, тестовая заметка готова
+
+
+**жирный**
+
+ТАБЛИЦА
+
+| ХЗХХ | ХХХ |
+| ---- | --- |
+| АВА  | ВАВ |
+
+
 ![[Pasted image 20250301180346.png]]
